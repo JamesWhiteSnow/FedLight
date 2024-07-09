@@ -54,5 +54,5 @@ For the experiments, we used both synthetic and real-world traffic datasets prov
 | Syn_1 | Synthetic | 2×2 |
 | Syn_2 | Synthetic | 3×3 |
 | Syn_3 | Synthetic | 4×4 |
-| Real_1 | Synthetic | 3×4 |
+| Real_1 | Real-world | 3×4 |
 
