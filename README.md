@@ -16,7 +16,7 @@ Welcome to cite our paper!
   booktitle={2021 58th ACM/IEEE Design Automation Conference (DAC)},
   year={2021},
   pages={847-852},
-  doi={10.1109/DAC18074.2021.9586175}}
+  doi={10.1109/DAC18074.2021.9586175}
 }
 ```
 
