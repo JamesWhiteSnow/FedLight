@@ -45,7 +45,7 @@ Our experiments are implemented on top of the traffic simulator Cityflow. Detail
 
 ## Run the code
 #### Execute the following command to run the experiment over the specified dataset.
-``python train.py -d <dataset_name>``
+``python train.py --d <dataset_name>``
 
 ## Datasets
 For the experiments, we used both synthetic and real-world traffic datasets provided by https://traffic-signal-control.github.io/dataset.html.
